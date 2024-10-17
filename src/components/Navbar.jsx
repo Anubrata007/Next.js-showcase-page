@@ -2,8 +2,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 //Images
-import Logo from '../public/Triangle-loader.gif';
-import Triangle from '../public/triangle.svg';
+import Logo from '@/public/Triangle-loader.gif';
+import Triangle from '@/public/triangle.svg';
 
 const Navbar = () => {
     return (

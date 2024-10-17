@@ -1,14 +1,14 @@
 import Image from 'next/image'
 
 //LOGO
-import Sonos from '../public/sonos.svg';
-import Spotify from '../public/spotify.svg';
-import OpenAI from '../public/openai.svg';
-import Zapier from '../public/zapier.svg';
-import Patreon from '../public/patreon.svg';
-import Auth from '../public/auth.svg';
-import Imdb from '../public/imdb.svg';
-import Dummy from '../public/dummy.png';
+import Sonos from '@/public/sonos.svg';
+import Spotify from '@/public/spotify.svg';
+import OpenAI from '@/public/openai.svg';
+import Zapier from '@/public/zapier.svg';
+import Patreon from '@/public/patreon.svg';
+import Auth from '@/public/auth.svg';
+import Imdb from '@/public/imdb.svg';
+import Dummy from '@/public/dummy.png';
 
 const Card = ({ imageSrc, title, description }) => {
     return (

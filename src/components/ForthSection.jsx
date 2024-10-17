@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 // Import Images
-import Dummy from "../public/dummy.png";
+import Dummy from "@/public/dummy.png";
 
 const ForthSection = () => {
     return (

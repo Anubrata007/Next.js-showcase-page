@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 // Images
-import Background from "../public/background.jpg";
+import Background from "@/public/background.jpg";
 
 const SecondSection = () => {
     return (
