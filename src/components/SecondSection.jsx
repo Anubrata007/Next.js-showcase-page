@@ -30,7 +30,7 @@ const SecondSection = () => {
                     <div className="bg-white p-6 rounded-lg shadow-md border">
                         <Image src={Background} alt="AI Chatbot Template" className="w-full h-32 object-contain" />
                         <h3 className="text-2xl font-bold mt-4 text-purple-600">stripe</h3>
-                        <p className="text-gray-600 mt-2">Architecting a live look at reliability: Stripe's viral Black Friday site.</p>
+                        <p className="text-gray-600 mt-2">Architecting a live look at reliability: Stripe viral Black Friday site.</p>
                     </div>
 
                     <div className="bg-white row-span-2 p-6 rounded-lg shadow-md border">
